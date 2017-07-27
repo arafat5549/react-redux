@@ -1,0 +1,10 @@
+第一次运行在本文件夹根目录下执行
+npm install，之后不用再执行这一步
+
+
+
+
+打包(测试)  gulp build
+打包(生产)  gulp build --prod
+清理	gulp clean
+模拟启动	gulp browsersync
